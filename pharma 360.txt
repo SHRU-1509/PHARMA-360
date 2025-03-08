@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pharma 360 Pvt. Ltd.</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Pharma 360 Pvt. Ltd.</h1>
+    </header>
+    <main>
+        <div class="compartment" id="medicines">
+            <h2>Medicines</h2>
+            <p>Explore our wide range of medicines for various health conditions.</p>
+        </div>
+        <div class="compartment" id="veterinary">
+            <h2>Veterinary Medicine and Assistance</h2>
+            <p>Providing quality veterinary medicines and assistance for your pets.</p>
+        </div>
+        <div class="compartment" id="insurance">
+            <h2>Insurance</h2>
+            <p>Get the best insurance plans for your health and pets.</p>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2023 Pharma 360 Pvt. Ltd. All rights reserved.</p>
+    </footer>
+</body>
+</html>
